@@ -38,9 +38,9 @@ VS Code.
 
 ## Librerías utilizadas
 
-pip install pandas
-pip install matplotlib
-pip install numpy
+- pip install pandas
+- pip install matplotlib
+- pip install numpy
 
 ## Módulos y otros skills utilizados
 
