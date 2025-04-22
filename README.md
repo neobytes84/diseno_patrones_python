@@ -1,5 +1,12 @@
 "Diseño de patrones con Python" 
 
+Los programas desarrollados con Python, son diferentes implementaciones de los patrones de diseño. Suelo utilizarlos constantemente en el desarrollo de los proyectos tanto con Python, como con otros lenguajes de programación, son una herramienta eficaz, versátil y en algunos casos requiere un conocimiento intermedio a avanzado del lenguaje, ya que existen patrones que pueden incrementar la complejidad del software.
+
+Autor: Neobytes
+Licencia: 
+Compatibilidad: Django 1.5+, python2.7 hasta python3.5
+Project_URL: 
+
 En el desarrollo de software, el diseño de patrones se refiere a la aplicación de patrones de diseño, que son soluciones reutilizables y probadas a problemas comunes encontrados durante el diseño y la implementación de sistemas de software.
 En el desarrollo de software, el diseño de patrones se refiere a la aplicación de patrones de diseño, que son soluciones reutilizables y probadas a problemas comunes encontrados durante el diseño y la implementación de sistemas de software. Los patrones de diseño son soluciones generales a problemas comunes que surgen durante el diseño y la implementación de sistemas de software. Proporcionan un conjunto de soluciones probadas para los desafíos de diseño y promueven las mejores prácticas en el desarrollo de software.
 
@@ -13,3 +20,20 @@ Soluciones probadas: Los patrones de diseño no son soluciones arbitrarias, sino
 En este repositorio, hemos desarrollado programas utilizando los diferentes tipos de diseño de patrones, como los son: Patrones de siseño estructural, patrones de diseño conductual y patrones de diseño crecional.
 
 El diseño de patrones en el desarrollo de software implica la aplicación reflexiva de patrones de diseño establecidos para resolver problemas comunes. Ayuda a crear sistemas de software más mantenibles, escalables y robustos al aprovechar soluciones reutilizables y probadas. Cabe destacar que la ventaja de su implementación como paso inicial en el desarrollo de software nos garantiza escalabilidad, abstraccion, comunicación, mantenibilidad, acelerando el desarrollo y proporcionando herramientas para la resolución de problemas.
+
+"Lenguaje de programación utilizado"
+Python
+
+"Instalación del Entorno virtual Windows 11"
+python -m venv ven
+Activando entorno
+.\ven\Scripts\activate
+
+"IDE utilizado"
+VS Code.
+
+"Librerías utilizadas"
+Numpy, Pandas, Matplotlib
+
+"Módulos y otros skills utilizados"
+Itertools, json, subprocess
