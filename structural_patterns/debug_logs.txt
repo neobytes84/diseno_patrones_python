@@ -1,0 +1,10 @@
+Function subtract started.
+Function subtract completed with result: 2.
+Function subtract started.
+Function subtract completed with result: 2.
+Function subtract started.
+Function subtract completed with result: 2.
+Function subtract started.
+Function subtract completed with result: 2.
+Function subtract started.
+Function subtract completed with result: 2.
