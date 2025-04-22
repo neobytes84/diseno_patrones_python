@@ -28,8 +28,9 @@ Python
 "Instalación del Entorno virtual Windows 11"
 
 python -m venv ven
-  Activando entorno
-  .\ven\Scripts\activate
+
+"Activando entorno"
+.\ven\Scripts\activate
 
 "IDE utilizado"
 
