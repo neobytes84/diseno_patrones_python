@@ -22,18 +22,23 @@ En este repositorio, hemos desarrollado programas utilizando los diferentes tipo
 El diseño de patrones en el desarrollo de software implica la aplicación reflexiva de patrones de diseño establecidos para resolver problemas comunes. Ayuda a crear sistemas de software más mantenibles, escalables y robustos al aprovechar soluciones reutilizables y probadas. Cabe destacar que la ventaja de su implementación como paso inicial en el desarrollo de software nos garantiza escalabilidad, abstraccion, comunicación, mantenibilidad, acelerando el desarrollo y proporcionando herramientas para la resolución de problemas.
 
 "Lenguaje de programación utilizado"
+
 Python
 
 "Instalación del Entorno virtual Windows 11"
+
 python -m venv ven
-Activando entorno
-.\ven\Scripts\activate
+  Activando entorno
+  .\ven\Scripts\activate
 
 "IDE utilizado"
+
 VS Code.
 
 "Librerías utilizadas"
+
 Numpy, Pandas, Matplotlib
 
 "Módulos y otros skills utilizados"
+
 Itertools, json, subprocess
