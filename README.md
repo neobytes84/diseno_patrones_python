@@ -5,7 +5,6 @@ Los programas desarrollados con Python, son diferentes implementaciones de los p
 * Autor: Neobytes84
 * Project_URL: https://github.com/neobytes84/diseno_patrones_python
 
-En el desarrollo de software, el diseño de patrones se refiere a la aplicación de patrones de diseño, que son soluciones reutilizables y probadas a problemas comunes encontrados durante el diseño y la implementación de sistemas de software.
 En el desarrollo de software, el diseño de patrones se refiere a la aplicación de patrones de diseño, que son soluciones reutilizables y probadas a problemas comunes encontrados durante el diseño y la implementación de sistemas de software. Los patrones de diseño son soluciones generales a problemas comunes que surgen durante el diseño y la implementación de sistemas de software. Proporcionan un conjunto de soluciones probadas para los desafíos de diseño y promueven las mejores prácticas en el desarrollo de software.
 
 ## Características del patronaje
@@ -14,7 +13,7 @@ En el desarrollo de software, el diseño de patrones se refiere a la aplicación
 - Abstracción: Los patrones abstraen detalles específicos de implementación y se centran en conceptos de diseño de alto nivel. Proporcionan una forma de comunicar y documentar las decisiones de diseño de una manera estandarizada y comprensible.
 - Vocabulario común: Los patrones de diseño establecen un vocabulario común y un conjunto de términos que los desarrolladores pueden usar para discutir y comunicar conceptos de diseño. Esto ayuda a fomentar un entendimiento compartido entre los miembros del equipo.
 - Soluciones probadas: Los patrones de diseño no son soluciones arbitrarias, sino que se basan en la experiencia colectiva de la comunidad de desarrollo de software. Representan soluciones que han sido probadas y comprobadas en escenarios del mundo real.
-- 
+  
 ## Utilidad de los patrones de diseño
 En este repositorio, hemos desarrollado programas utilizando los diferentes tipos de diseño de patrones, como los son: Patrones de siseño estructural, patrones de diseño conductual y patrones de diseño crecional.
 
