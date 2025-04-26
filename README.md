@@ -2,7 +2,7 @@
 
 Los programas desarrollados con Python, son diferentes implementaciones de los patrones de diseño. Suelo utilizarlos constantemente en el desarrollo de los proyectos tanto con Python, como con otros lenguajes de programación, son una herramienta eficaz, versátil y en algunos casos requiere un conocimiento intermedio a avanzado del lenguaje, ya que existen patrones que pueden incrementar la complejidad del software.
 
-* Autor: Neobytes
+* Autor: Neobytes84
 * Project_URL: https://github.com/neobytes84/diseno_patrones_python
 
 En el desarrollo de software, el diseño de patrones se refiere a la aplicación de patrones de diseño, que son soluciones reutilizables y probadas a problemas comunes encontrados durante el diseño y la implementación de sistemas de software.
